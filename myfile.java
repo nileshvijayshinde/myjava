@@ -1,6 +1,6 @@
 
 class Simple{  
     public static void main(String args[]){  
-     System.out.println("Hello rehan");  
+     System.out.println("Hello sohan");  
     }  
 }  
